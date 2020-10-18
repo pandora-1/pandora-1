@@ -1,4 +1,9 @@
-### Hi there 👋
+### Nama = Marcellus Michael Herman Kahari
+### Universitas = Institut Teknologi Bandung
+### Fakultas = Sekolah Teknik Elektro dan Informatika
+### NIM = 16520338
+### Link Linkedin = www.linkedin.com/in/marcellus-michael-herman-kahari
+
 
 <!--
 **pandora-1/pandora-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
