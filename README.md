@@ -1,6 +1,6 @@
 Welcome to...
 
-# Marcellus Michael's Code Diary <img width="45" src="https://github.com/pandora-1/pandora-1/blob/main/res/img/dog.gif">
+# Marcellus Michael's Code Diary 
 
 feel free to explore it
 
@@ -24,4 +24,4 @@ feel free to explore it
 
 ---
 
-Reach me at: https://www.linkedin.com/in/jesslyn-nathania/
+Reach me at: www.linkedin.com/in/marcellus-michael-herman-kahari
