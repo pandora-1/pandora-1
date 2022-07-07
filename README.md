@@ -4,8 +4,6 @@ Welcome to...
 
 feel free to explore it
 
-### My Skills
-
 ### Gihub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=pandora-1&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
