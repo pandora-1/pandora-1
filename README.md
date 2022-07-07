@@ -1,15 +1,10 @@
 Welcome to...
 
-# Marcellus Michael's Code Diary 
+# Marcellus Michael Herman Kahari's Code Diary
 
 feel free to explore it
 
 ### My Skills
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-347AB4?style=flat-square&logo=python&logoColor=white" />
-</p>
-
 
 ### Gihub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=pandora-1&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
